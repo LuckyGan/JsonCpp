@@ -1,0 +1,23 @@
+\ttl@change@i {\@ne }{part}{2em}{\song \xiaosihao }{\contentslabel {2em}\hspace *{1em}}{\hspace *{-2.3em}}{\titlerule *[0.5pc]{.}\contentspage }\relax 
+\ttl@change@v {part}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{-0.2em}{\song \xiaosihao }{\di \contentslabel {0.5em}\zhang \hspace *{1em}}{}{\titlerule *[0.5pc]{.}\contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{2em}{\song \xiaosihao }{\contentslabel {1em}\hspace *{1em}}{}{\titlerule *[0.5pc]{.}\contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsubsection}{2em}{\song \xiaosihao }{\contentslabel {2em}\hspace *{1em}}{\hspace *{-2.3em}}{\titlerule *[0.5pc]{.}\contentspage }\relax 
+\ttl@change@v {subsubsection}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsubsubsection}{3em}{\song \xiaosihao }{\contentslabel {2em}\hspace *{1em}}{\hspace *{-2.3em}}{\titlerule *[0.5pc]{.}\contentspage }\relax 
+\ttl@change@v {subsubsubsection}{}{}{}\relax 
+\ttl@change@i {\@ne }{paragraph}{4em}{\song \xiaosihao }{\contentslabel {3em}\hspace *{1em}}{\hspace *{-2.3em}}{\titlerule *[0.5pc]{.}\contentspage }\relax 
+\ttl@change@v {paragraph}{}{}{}\relax 
+\contentsline {part}{摘要}{I}
+\contentsline {part}{目录}{II}
+\contentsline {section}{\numberline {1}综述}{1}
+\contentsline {subsection}{\numberline {1.1}本章小结}{1}
+\contentsline {subsubsection}{\numberline {1.1.1}其他}{1}
+\contentsline {section}{\numberline {2}LevelDB介绍}{2}
+\contentsline {subsection}{\numberline {2.1}本章小结}{2}
+\contentsline {section}{\numberline {3}LevelDB使用}{3}
+\contentsline {subsection}{\numberline {3.1}本章小结}{3}
+\contentsline {part}{参考文献}{4}
+\contentsfinish 
